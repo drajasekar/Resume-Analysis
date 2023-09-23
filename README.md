@@ -7,6 +7,8 @@
 - [Features](#features)
 - [Usage](#usage)
 - [Resume Analysis](#resume-analysis)
+- [ChatGPT Integration](#ChatGPT Integration)
+- [LinkedIn Scraping](#LinkedIn Scraping)
 
 ## About
 
@@ -44,6 +46,7 @@ Resume Tips
 
 ##ChatGPT Integration
 Interact with ChatGPT by entering prompts related to resume analysis.
+
 
 ##LinkedIn Scraping
 Log in to your LinkedIn account through the application to perform job searches.
