@@ -1,15 +1,5 @@
 # Resume Analyzer
 
-## Table of Contents
-
-- [About](#about)
-- [Project Description](#project-description)
-- [Features](#features)
-- [Usage](#usage)
-- [Resume Analysis](#resume-analysis)
-- [ChatGPT Integration](#ChatGPT Integration)
-- [LinkedIn Scraping](#LinkedIn Scraping)
-
 ## About
 
 The Resume Analyzer and Job Finder is a web application designed to assist users in analyzing their resumes and finding relevant job openings. It offers detailed resume analysis based on the user's domain and provides job recommendations using LinkedIn data.
