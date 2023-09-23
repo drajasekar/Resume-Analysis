@@ -1,6 +1,4 @@
-# Resume Analyzer and Job Finder
-
-![Project Logo](/path/to/your/logo.png) <!-- Add your project logo here -->
+# Resume Analyzer
 
 ## Table of Contents
 
@@ -9,10 +7,6 @@
 - [Features](#features)
 - [Usage](#usage)
 - [Resume Analysis](#resume-analysis)
-- [Job Finder](#job-finder)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## About
 
