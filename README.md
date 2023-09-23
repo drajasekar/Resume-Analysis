@@ -38,6 +38,9 @@ Resume Tips
 Interact with ChatGPT by entering prompts related to resume analysis.
 
 
+## Demo of project
+
+
 ## LinkedIn Scraping
 Log in to your LinkedIn account through the application to perform job searches.
 
