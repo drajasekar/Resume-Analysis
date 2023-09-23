@@ -26,7 +26,7 @@ Click the "Submit button" button to receive a detailed analysis.
 Admin side to check for user details which are stored in sql
 Explore job recommendations under the Linkdinsearch section.
 
-##Resume Analysis
+## Resume Analysis
 The application provides a comprehensive analysis of your resume, including:
 
 Basic details
@@ -34,7 +34,7 @@ skills Recommendation
 Area of improvement
 Resume Tips
 
-##ChatGPT Integration
+## ChatGPT Integration
 Interact with ChatGPT by entering prompts related to resume analysis.
 
 
